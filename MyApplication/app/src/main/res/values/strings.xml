@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Demonstration App</string>
+    <string name="action_settings">Settings</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum congue, felis egestas fermentum elementum, urna purus condimentum nisl, a tincidunt felis sapien at leo. Morbi metus felis, porta tincidunt tellus eu, porta sollicitudin justo. Sed pellentesque fermentum ante id mollis. Nam in nisi tristique, suscipit eros non, imperdiet elit. Praesent quis elit a lectus feugiat auctor. Nulla volutpat maximus nisi in varius. Praesent hendrerit lectus nec tempus vehicula. Morbi congue justo ut velit ornare gravida. Maecenas iaculis aliquam magna, et scelerisque justo accumsan placerat adipiscing elit. Vivamus in lectus arcu.  Fusce sed tincidunt orci. Sed at purus ut quam tincidunt hendrerit non id mauris. Morbi eu sodales justo. Cras a velit eleifend metus sodales luctus quis elementum diam. Donec fermentum lectus eget sem faucibus tincidunt. Vestibulum ut felis pulvinar, auctor est ut, mollis ipsum. Proin ut nibh dignissim, scelerisque eros luctus, aliquam urna. Donec suscipit ipsum nunc, ut cursus justo tristique ac. Vestibulum ac fermentum elit. Quisque tristique lectus lacus, id pretium tortor tristique vitae. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum id velit erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</string>
+    <string name="title_activity_about">About</string>
+    <string name="descr">Application Description</string>
+    <string name="full_description"> This application has been built for demonstration purposes only and it is not supposed to be fully functioning.\n\nThe presented information have been collected from AlpamayoPro.gr website.\n\n-Dimas Anastasios</string>
+    <string name="title_activity_contact">Contact</string>
+    <string name="e_mail">e-mail:</string>
+    <string name="phone_number">Phone number:</string>
+    <string name="website">Website:</string>
+    <string name="note">Note: Tap on the contact informationto interact accordingly.</string>
+    <string name="title_activity_detail">Details</string>
+    <string name="title_activity_cart">Cart</string>
+    <string name="cart_summary">Cart Summary</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="about">About</string>
+    <string name="contact">Contact</string>
+    <string name="shopping_cart">Shopping Cart</string>
+</resources>
