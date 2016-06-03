@@ -17,9 +17,9 @@ public class ContactActivity extends AppCompatActivity implements View.OnClickLi
      * a browser or an e-mail applicati
      */
 
-    private final String EMAIL = "tasosd09@gmail.com";
-    private final String PHONENUMBER = "+306945762056";
-    private final String WEBSITE = "https://www.linkedin.com/in/tasosdi";
+    private final String EMAIL = "******@gmail.com";
+    private final String PHONENUMBER = "+3069********";
+    private final String WEBSITE = "https://www.linkedin.com/in/*******";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
